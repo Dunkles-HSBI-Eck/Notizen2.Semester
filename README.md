@@ -5,3 +5,4 @@ Dieses Repository enthält Notizen und Materialien für das 2. Semester des Stud
 ## Inhaltsbereiche
 
 - [Berufsfeld Informatik Vorlesungsnotizen](/Berufsfeld%20Informatik/Inhalt.md)
+- [MSI und Unternehmenssoftware Vorlesungsnotizen](/MSI%20und%20Unternehmenssoftware/Inhalt.md)
